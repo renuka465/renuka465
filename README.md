@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Renuka Nakka!
+🎓 M.Tech Student at Vignan University | Aspiring Software Engineer
 
-<!--
-**renuka465/renuka465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Renuka, currently pursuing my M.Tech at Vignan University. I'm passionate about technology, programming, software development, and cloud computing.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+🎓 Pursuing M.Tech at Vignan University.
+💻 Aspiring Software Engineer.
+☁️ Interested in Cloud Computing and Cloud Technologies.
+🌱 Always eager to learn new technologies.
+🚀 Passionate about building innovative projects.
+🧠 Interested in problem-solving and continuous learning.
+🛠️ Technical Skills
+Programming Languages: Python, Java
+Tools: Git, GitHub, VS Code
+Areas of Interest: Cloud Computing, Software Development, Problem Solving.
+☁️ Areas of Interest
+Cloud Computing
+Cloud Infrastructure
+Cloud Services
+Cloud-Based Application Development
+📚 Currently Learning
+Python and Java
+Data Structures and Algorithms
+Cloud Computing Technologies
+Software Development
+🎯 Career Goals
+Enhance my technical and programming skills.
+Gain practical knowledge of cloud technologies.
+Build real-world projects.
+Explore emerging technologies.
+Grow as a skilled Software Engineer.
+🌐 Connect With Me
+GitHub: renuka465
+LinkedIn: Renuka Nakka
+💡 My Motto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Keep Learning, Keep Building, Keep Growing!"
+
+⭐ Thanks for visiting my profile!
